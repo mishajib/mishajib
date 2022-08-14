@@ -235,18 +235,6 @@ I am a passionate <strong>software engineer</strong> with 2+ years of experience
 </p>
 <hr/>
 
-<h2 align="center"> Stackoverflow </h2>
-<p align="center">
-  <a href="https://stackoverflow.com/users/9986054/mi-shajib">
-  <img title="MI SHAJIB's Stack Overflow" src="https://github-readme-stackoverflow.vercel.app/?userID=9986054&theme=dark" />
-  </a>
-</p>
-
-<h2 align="center"> 𝗩ISITORS </h2>
-<p align="center">
-    <img title="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=mishajib" />
-</p>
-
 <!--
 **mishajib/mishajib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
