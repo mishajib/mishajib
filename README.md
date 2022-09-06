@@ -4,7 +4,7 @@
 <h1 align="center">𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 MI SHAJIB ( SOFTWARE ENGINEER )</h1>
 
 <p align="justify">
-I am a passionate <strong>software engineer</strong> with 2+ years of experience. I have experienced and love to work with few technologies are - <strong>PHP</strong>, <strong>Python</strong>, <strong>JavaScript</strong>. I am always looking forward to the <strong>opportunity</strong> to work in the <strong>software engineering industries</strong>. I always love to learn <strong>new techs</strong> in the programming world.
+I am a passionate <strong>software engineer</strong> with more than 3 years of experience. I have experienced and love to work with few technologies are - <strong>PHP</strong>, <strong>Python</strong>, <strong>JavaScript</strong>. I am always looking forward to the <strong>opportunity</strong> to work in the <strong>software engineering industries</strong>. I always love to learn <strong>new techs</strong> in the programming world.
 </p>
 
 - 👨🏽‍💻 Currently working, learning, and growing my skillset in **PHP**, **JavaScript**, **Python** coding, data structures, and algorithms.
