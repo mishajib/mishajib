@@ -21,13 +21,13 @@ I am a passionate <strong>SOFTWARE ENGINEER</strong> with more than 5 years of e
 <h2 align="center">📫 WHERE TO FIND ME</h2>
 <p align="center">
     <a title="LinkedIn" href="https://www.linkedin.com/in/mishajib/">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%230e76a8?style=flat-square&logo=Linkedin&logoColor=ffffff" />
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a title="Youtube" href="https://www.youtube.com/channel/UCk-MkWYPZWG8X8vX3wloF0w">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%23FF0000?style=flat-square&logo=youtube" />
+        <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
     </a>
     <a title="Github" href="https://github.com/mishajib">
-        <img src="https://img.shields.io/badge/-MI%20SHAJIB-%23211F1F?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
     </a>
 </p>
 
